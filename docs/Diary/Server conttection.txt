@@ -1,0 +1,5 @@
+
+
+ssh -X rognot@Rackham.uppmax.uu.se
+
+ssh -X rognot@milou.uppmax.uu.se
